@@ -40,6 +40,10 @@ Here are some ideas to get you started:
 
 ###
 
+<img src="https://raw.githubusercontent.com/fiqrisr/fiqrisr/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo"  />
   <img width="12" />
@@ -112,7 +116,5 @@ React.js                  █████████░░░░░░░░░
 -->
 
 ###
-
-<img src="https://raw.githubusercontent.com/fiqrisr/fiqrisr/output/snake.svg" alt="Snake animation" />
 
 ###
