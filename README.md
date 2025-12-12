@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Frontend+Engineer;7%2B+years+experience;Always+learning+new+things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Frontend+Engineer;8%2B+years+experience;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 ###
